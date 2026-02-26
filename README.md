@@ -7,7 +7,7 @@ This project monitors indoor air quality using the MQ-135 gas sensor.
 Real-time air quality data is displayed on an OLED display.
 An LED and buzzer alert the user when air quality becomes poor.
 
-## 🔧 Components Used
+## Components Used
 - Arduino Uno
 - MQ-135 Gas Sensor
 - OLED Display (SSD1306)
@@ -31,7 +31,7 @@ An LED and buzzer alert the user when air quality becomes poor.
 | LED | D7 |
 | Buzzer | D8 |
 
-## 🚀 Applications
+##  Applications
 - Smart homes
 - Industrial safety
 - Indoor air monitoring
